@@ -22,11 +22,11 @@ by item and market.
 6. GetAverage (helper)
 
 ## Contents
-- `docs/` : problem statement, algorithm, pseudocode, modules, SDG/open source/DPG
-- `flowcharts/` : colored flowcharts for submit price and search price
-- `pseudocode-screenshots/` : colored screenshots of the pseudocode for each module
+- `sam.png`, `submit-price.png`, `search-price.png`: flowcharts
+- `login.png`, `validate-price.png`, `save-and-alert.png`, `search-prices.png`, `main-program.png`: pseudocode screenshots
+- `LICENSE`: MIT licence
 
-## SDG alignment
+
 SDG 1 (No Poverty), SDG 2 (Zero Hunger), SDG 9 (Industry, Innovation and Infrastructure)
 
 ## Note
@@ -40,8 +40,8 @@ David, Limkokwing University of Creative Technology, Sierra Leone.
 PROG101 Assignment 1.
 
 ## Flowchart preview
-![Submit price flowchart](flowcharts/submit-price.png)
-![Search price flowchart](flowcharts/search-price.png)
+(flowcharts/submit-price.png)
+(flowcharts/search-price.png)
 
 ## Pseudocode preview
-![Main program](pseudocode-screenshots/main-program.png)
+!(main-program.png)
